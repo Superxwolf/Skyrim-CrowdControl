@@ -1,4 +1,4 @@
-#Crowd Control for Skyrim
+# Crowd Control for Skyrim
 
 This mods for Skyrim Special Edition that connects to Warp World's Crowd Control and contains commands so that players can affect your game through Twitch.
 
